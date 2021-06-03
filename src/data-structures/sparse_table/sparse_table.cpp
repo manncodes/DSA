@@ -40,6 +40,7 @@ void buildST(){
     }
 }
 
+
 /**
  * Queries the sparse table for the value of the interval [l, r]
  * (i.e. from l to r inclusive).
@@ -57,3 +58,4 @@ int query(int l,int r){
     int y = ST[g][r-(1<<g) + 1];
     return ((a[x] <= a[y]) ? x : y);
 }
+

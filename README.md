@@ -7,14 +7,18 @@ C++ code library contains useful algorithms for competitive programming.
 ```bash
 DSA
 │   README.md
-│
+│   
 ├───docs
 │       cp-book.pdf
 │
 └───src
     ├───data-structures
-    │   └───disjoint-set-union
-    │           disjoint-set-union.cpp
+    │   ├───disjoint-set-union
+    │   │       disjoint-set-union.cpp
+    │   │
+    │   └───sparse_table
+    │           README.md
+    │           sparse_table.cpp
     │
     ├───graphs
     │   └───lowest_common_ancestor
