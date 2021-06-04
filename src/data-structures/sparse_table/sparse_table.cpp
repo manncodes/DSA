@@ -1,6 +1,5 @@
 #include <bits/stdc++.h>
 using namespace std;
-j
 // N: the maximum size of array
 // M: ceil(log2(N)).
 

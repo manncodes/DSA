@@ -60,6 +60,3 @@ return min(x, y);
 You can find the full implementation of the sparse table [here](https://github.com/OmarBazaraa/Competitive-Programming/blob/master/data_structures/sparse_table/sparse_table.cpp).
 
 The above implementation is an example of sparse table the computes the index of the minimum element in the range **_[L, R]_**
-
-## Problems
-1. [Codeforces CGCDSSQ](http://codeforces.com/contest/475/problem/D) => [Solution](http://codeforces.com/contest/475/submission/19443560)
