@@ -6,8 +6,9 @@ C++ code library contains useful algorithms for competitive programming.
 
 ```bash
 DSA
+│   .gitignore
 │   README.md
-│   
+│
 ├───docs
 │       cp-book.pdf
 │
@@ -16,7 +17,15 @@ DSA
     │   ├───disjoint-set-union
     │   │       disjoint-set-union.cpp
     │   │
+    │   ├───segment_tree
+    │   │       persistent_segment_tree.cpp
+    │   │       segment_tree_dynamic.cpp
+    │   │       segment_tree_multiset.cpp
+    │   │       segment_tree_static.cpp
+    │   │
     │   └───sparse_table
+    │           example.cpp
+    │           example.exe
     │           README.md
     │           sparse_table.cpp
     │
